@@ -12,9 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_inappwebview:
-    git:
-      url: https://github.com/CodeEagle/flutter_inappwebview.git
-      path: packages/youtube_player_flutter
+    git: https://github.com/CodeEagle/flutter_inappwebview.git
 
 dev_dependencies:
   flutter_test:
