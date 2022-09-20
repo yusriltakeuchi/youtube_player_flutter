@@ -11,7 +11,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_inappwebview: ^5.4.3+7
+  flutter_inappwebview:
+    git:
+      url: https://github.com/CodeEagle/flutter_inappwebview.git
+      path: packages/youtube_player_flutter
 
 dev_dependencies:
   flutter_test:
